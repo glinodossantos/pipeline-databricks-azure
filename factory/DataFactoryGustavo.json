@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryGustavo",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "473da830-0fac-4872-a11b-d736ba7b2c48",
+		"tenantId": "7cc9328b-2701-49a8-b672-70a44bea2ab7"
+	}
+}
