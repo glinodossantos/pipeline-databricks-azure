@@ -1,5 +1,5 @@
 {
-	"name": "Datalake-injection",
+	"name": "Datalake-ingestion",
 	"properties": {
 		"activities": [
 			{
